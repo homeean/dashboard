@@ -51,7 +51,7 @@ server {
 ```
 *the homee_url is required*
 
-Open `http://yoururl` for your custom homee dashboard. Reload the page after your first login
+Open `http://yoururl:8022` for your custom homee dashboard. Reload the page after your first login
 
 ## customizing
 The homeean dashboard comes with a simple example. By changing the `script.js` and the `style.css` you can customize the view.
