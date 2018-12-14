@@ -14,8 +14,13 @@
 }
 
 /* Dashboard Steuerung (oben rechts) */
-.toggleMoveWidgetsBtn, .editModeBtn, .fullScreenBtn {
+.toggleMoveWidgetsBtn, .editModeBtn, .fullScreenBtn, .diaryBtn {
     display: none;
+}
+
+/* Dashboard Header (mobile only) */
+.itemListHeader {
+    display: none !important;
 }
 
 /* Hauptnavigation links*/
