@@ -19,7 +19,7 @@ mv example-style.css style.css
 **update your webserver config**
 
 ```bash
-// example for a new nginx site config on port 8022
+// example for a nginx site config on port 8022
 // file /etc/nginx/sites-available/homeean_dashboard
 
 server {
